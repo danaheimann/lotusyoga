@@ -1,0 +1,61 @@
+*{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Chivo', sans-serif;
+}
+
+.masthead {
+  display: flex;
+  align-items: center;
+  background-image: url(./images/lotus-studio-header.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 638px;
+  width: 100%;
+}
+
+.main-header {
+  font-size: 90px;
+  margin: 0;
+  padding-top: 36px;
+  color: cadetblue;
+  text-shadow: -4px 6px black;
+}
+
+.logo {
+  height: 137px;
+  padding-right: 122px;
+}
+
+.tagline {
+  display: block;
+  width: 30rem;
+  color: cadetblue;
+  text-shadow: -1px 0px 0px black;
+}
+
+.landing-text {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 205px;
+  padding-left: 93px;
+}
+
+section h5 {
+  font-size: 2rem;
+}
+
+.section-padding {
+padding: 25px 15px 25px 15px;
+}
+
+.offerings {
+  background-color: cadetblue;
+}
