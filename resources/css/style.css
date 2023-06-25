@@ -166,7 +166,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(./images/lotus-studio-header.jpg);
+  background-image: url(/lotusyoga/resources/images/lotus-studio-header.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -220,8 +220,8 @@ ul {
 
 .mission-section {
   background-image: 
-    url(./images/lotus-studio-secondary-1.jpg),
-    url(./images/lotus-studio-secondary-2.jpg);
+    url(/lotusyoga/resources/images/lotus-studio-secondary-1.jpg),
+    url(/lotusyoga/resources/images/lotus-studio-secondary-2.jpg);
   background-position:
     top 10px left 10px, 
     bottom 10px right 10px; 
@@ -321,7 +321,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(images/white-lotus-2.jpg);
+  background-image: url(/lotusyoga/resources/images/white-lotus-2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
